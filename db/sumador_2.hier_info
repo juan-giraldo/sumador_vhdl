@@ -1,0 +1,3982 @@
+|KSA_64
+x[0] => gp_gen:stg00:0:pm.x
+x[1] => gp_gen:stg00:1:pm.x
+x[2] => gp_gen:stg00:2:pm.x
+x[3] => gp_gen:stg00:3:pm.x
+x[4] => gp_gen:stg00:4:pm.x
+x[5] => gp_gen:stg00:5:pm.x
+x[6] => gp_gen:stg00:6:pm.x
+x[7] => gp_gen:stg00:7:pm.x
+x[8] => gp_gen:stg00:8:pm.x
+x[9] => gp_gen:stg00:9:pm.x
+x[10] => gp_gen:stg00:10:pm.x
+x[11] => gp_gen:stg00:11:pm.x
+x[12] => gp_gen:stg00:12:pm.x
+x[13] => gp_gen:stg00:13:pm.x
+x[14] => gp_gen:stg00:14:pm.x
+x[15] => gp_gen:stg00:15:pm.x
+x[16] => gp_gen:stg00:16:pm.x
+x[17] => gp_gen:stg00:17:pm.x
+x[18] => gp_gen:stg00:18:pm.x
+x[19] => gp_gen:stg00:19:pm.x
+x[20] => gp_gen:stg00:20:pm.x
+x[21] => gp_gen:stg00:21:pm.x
+x[22] => gp_gen:stg00:22:pm.x
+x[23] => gp_gen:stg00:23:pm.x
+x[24] => gp_gen:stg00:24:pm.x
+x[25] => gp_gen:stg00:25:pm.x
+x[26] => gp_gen:stg00:26:pm.x
+x[27] => gp_gen:stg00:27:pm.x
+x[28] => gp_gen:stg00:28:pm.x
+x[29] => gp_gen:stg00:29:pm.x
+x[30] => gp_gen:stg00:30:pm.x
+x[31] => gp_gen:stg00:31:pm.x
+x[32] => gp_gen:stg00:32:pm.x
+x[33] => gp_gen:stg00:33:pm.x
+x[34] => gp_gen:stg00:34:pm.x
+x[35] => gp_gen:stg00:35:pm.x
+x[36] => gp_gen:stg00:36:pm.x
+x[37] => gp_gen:stg00:37:pm.x
+x[38] => gp_gen:stg00:38:pm.x
+x[39] => gp_gen:stg00:39:pm.x
+x[40] => gp_gen:stg00:40:pm.x
+x[41] => gp_gen:stg00:41:pm.x
+x[42] => gp_gen:stg00:42:pm.x
+x[43] => gp_gen:stg00:43:pm.x
+x[44] => gp_gen:stg00:44:pm.x
+x[45] => gp_gen:stg00:45:pm.x
+x[46] => gp_gen:stg00:46:pm.x
+x[47] => gp_gen:stg00:47:pm.x
+x[48] => gp_gen:stg00:48:pm.x
+x[49] => gp_gen:stg00:49:pm.x
+x[50] => gp_gen:stg00:50:pm.x
+x[51] => gp_gen:stg00:51:pm.x
+x[52] => gp_gen:stg00:52:pm.x
+x[53] => gp_gen:stg00:53:pm.x
+x[54] => gp_gen:stg00:54:pm.x
+x[55] => gp_gen:stg00:55:pm.x
+x[56] => gp_gen:stg00:56:pm.x
+x[57] => gp_gen:stg00:57:pm.x
+x[58] => gp_gen:stg00:58:pm.x
+x[59] => gp_gen:stg00:59:pm.x
+x[60] => gp_gen:stg00:60:pm.x
+x[61] => gp_gen:stg00:61:pm.x
+x[62] => gp_gen:stg00:62:pm.x
+x[63] => gp_gen:stg00:63:pm.x
+y[0] => gp_gen:stg00:0:pm.y
+y[1] => gp_gen:stg00:1:pm.y
+y[2] => gp_gen:stg00:2:pm.y
+y[3] => gp_gen:stg00:3:pm.y
+y[4] => gp_gen:stg00:4:pm.y
+y[5] => gp_gen:stg00:5:pm.y
+y[6] => gp_gen:stg00:6:pm.y
+y[7] => gp_gen:stg00:7:pm.y
+y[8] => gp_gen:stg00:8:pm.y
+y[9] => gp_gen:stg00:9:pm.y
+y[10] => gp_gen:stg00:10:pm.y
+y[11] => gp_gen:stg00:11:pm.y
+y[12] => gp_gen:stg00:12:pm.y
+y[13] => gp_gen:stg00:13:pm.y
+y[14] => gp_gen:stg00:14:pm.y
+y[15] => gp_gen:stg00:15:pm.y
+y[16] => gp_gen:stg00:16:pm.y
+y[17] => gp_gen:stg00:17:pm.y
+y[18] => gp_gen:stg00:18:pm.y
+y[19] => gp_gen:stg00:19:pm.y
+y[20] => gp_gen:stg00:20:pm.y
+y[21] => gp_gen:stg00:21:pm.y
+y[22] => gp_gen:stg00:22:pm.y
+y[23] => gp_gen:stg00:23:pm.y
+y[24] => gp_gen:stg00:24:pm.y
+y[25] => gp_gen:stg00:25:pm.y
+y[26] => gp_gen:stg00:26:pm.y
+y[27] => gp_gen:stg00:27:pm.y
+y[28] => gp_gen:stg00:28:pm.y
+y[29] => gp_gen:stg00:29:pm.y
+y[30] => gp_gen:stg00:30:pm.y
+y[31] => gp_gen:stg00:31:pm.y
+y[32] => gp_gen:stg00:32:pm.y
+y[33] => gp_gen:stg00:33:pm.y
+y[34] => gp_gen:stg00:34:pm.y
+y[35] => gp_gen:stg00:35:pm.y
+y[36] => gp_gen:stg00:36:pm.y
+y[37] => gp_gen:stg00:37:pm.y
+y[38] => gp_gen:stg00:38:pm.y
+y[39] => gp_gen:stg00:39:pm.y
+y[40] => gp_gen:stg00:40:pm.y
+y[41] => gp_gen:stg00:41:pm.y
+y[42] => gp_gen:stg00:42:pm.y
+y[43] => gp_gen:stg00:43:pm.y
+y[44] => gp_gen:stg00:44:pm.y
+y[45] => gp_gen:stg00:45:pm.y
+y[46] => gp_gen:stg00:46:pm.y
+y[47] => gp_gen:stg00:47:pm.y
+y[48] => gp_gen:stg00:48:pm.y
+y[49] => gp_gen:stg00:49:pm.y
+y[50] => gp_gen:stg00:50:pm.y
+y[51] => gp_gen:stg00:51:pm.y
+y[52] => gp_gen:stg00:52:pm.y
+y[53] => gp_gen:stg00:53:pm.y
+y[54] => gp_gen:stg00:54:pm.y
+y[55] => gp_gen:stg00:55:pm.y
+y[56] => gp_gen:stg00:56:pm.y
+y[57] => gp_gen:stg00:57:pm.y
+y[58] => gp_gen:stg00:58:pm.y
+y[59] => gp_gen:stg00:59:pm.y
+y[60] => gp_gen:stg00:60:pm.y
+y[61] => gp_gen:stg00:61:pm.y
+y[62] => gp_gen:stg00:62:pm.y
+y[63] => gp_gen:stg00:63:pm.y
+sum[0] << gp_gen:stg00:0:pm.p
+sum[1] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[2] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[3] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[4] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[5] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[6] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[7] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[8] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[9] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[10] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[11] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[12] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[13] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[14] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[15] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[16] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[17] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[18] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[19] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[20] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[21] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[22] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[23] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[24] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[25] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[26] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[27] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[28] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[29] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[30] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[31] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[32] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[33] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[34] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[35] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[36] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[37] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[38] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[39] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[40] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[41] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[42] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[43] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[44] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[45] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[46] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[47] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[48] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[49] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[50] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[51] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[52] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[53] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[54] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[55] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[56] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[57] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[58] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[59] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[60] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[61] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[62] << sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[63] << sum.DB_MAX_OUTPUT_PORT_TYPE
+c_out << carry_op:stg06:31:pm.go
+
+
+|KSA_64|gp_gen:\stg00:0:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:1:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:2:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:3:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:4:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:5:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:6:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:7:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:8:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:9:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:10:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:11:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:12:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:13:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:14:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:15:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:16:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:17:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:18:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:19:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:20:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:21:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:22:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:23:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:24:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:25:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:26:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:27:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:28:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:29:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:30:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:31:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:32:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:33:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:34:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:35:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:36:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:37:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:38:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:39:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:40:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:41:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:42:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:43:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:44:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:45:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:46:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:47:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:48:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:49:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:50:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:51:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:52:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:53:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:54:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:55:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:56:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:57:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:58:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:59:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:60:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:61:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:62:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|gp_gen:\stg00:63:pm
+x => g.IN0
+x => p.IN0
+y => g.IN1
+y => p.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+p <= p.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:0:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:1:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:2:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:3:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:4:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:5:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:6:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:7:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:8:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:9:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:10:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:11:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:12:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:13:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:14:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:15:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:16:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:17:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:18:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:19:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:20:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:21:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:22:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:23:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:24:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:25:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:26:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:27:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:28:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:29:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:30:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:31:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:32:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:33:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:34:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:35:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:36:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:37:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:38:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:39:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:40:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:41:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:42:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:43:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:44:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:45:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:46:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:47:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:48:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:49:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:50:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:51:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:52:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:53:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:54:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:55:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:56:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:57:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:58:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:59:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:60:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:61:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg01:62:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:0:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:1:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:2:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:3:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:4:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:5:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:6:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:7:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:8:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:9:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:10:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:11:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:12:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:13:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:14:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:15:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:16:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:17:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:18:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:19:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:20:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:21:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:22:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:23:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:24:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:25:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:26:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:27:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:28:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:29:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:30:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:31:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:32:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:33:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:34:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:35:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:36:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:37:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:38:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:39:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:40:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:41:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:42:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:43:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:44:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:45:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:46:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:47:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:48:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:49:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:50:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:51:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:52:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:53:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:54:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:55:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:56:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:57:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:58:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:59:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:60:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg02:61:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:0:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:1:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:2:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:3:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:4:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:5:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:6:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:7:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:8:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:9:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:10:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:11:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:12:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:13:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:14:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:15:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:16:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:17:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:18:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:19:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:20:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:21:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:22:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:23:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:24:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:25:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:26:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:27:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:28:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:29:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:30:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:31:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:32:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:33:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:34:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:35:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:36:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:37:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:38:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:39:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:40:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:41:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:42:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:43:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:44:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:45:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:46:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:47:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:48:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:49:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:50:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:51:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:52:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:53:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:54:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:55:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:56:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:57:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:58:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg03:59:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:0:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:1:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:2:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:3:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:4:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:5:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:6:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:7:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:8:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:9:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:10:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:11:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:12:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:13:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:14:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:15:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:16:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:17:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:18:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:19:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:20:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:21:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:22:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:23:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:24:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:25:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:26:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:27:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:28:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:29:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:30:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:31:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:32:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:33:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:34:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:35:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:36:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:37:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:38:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:39:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:40:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:41:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:42:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:43:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:44:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:45:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:46:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:47:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:48:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:49:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:50:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:51:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:52:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:53:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:54:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg04:55:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:0:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:1:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:2:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:3:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:4:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:5:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:6:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:7:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:8:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:9:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:10:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:11:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:12:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:13:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:14:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:15:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:16:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:17:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:18:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:19:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:20:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:21:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:22:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:23:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:24:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:25:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:26:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:27:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:28:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:29:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:30:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:31:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:32:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:33:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:34:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:35:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:36:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:37:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:38:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:39:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:40:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:41:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:42:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:43:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:44:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:45:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:46:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg05:47:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:0:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:1:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:2:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:3:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:4:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:5:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:6:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:7:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:8:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:9:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:10:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:11:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:12:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:13:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:14:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:15:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:16:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:17:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:18:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:19:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:20:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:21:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:22:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:23:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:24:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:25:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:26:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:27:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:28:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:29:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:30:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|KSA_64|carry_op:\stg06:31:pm
+g1 => go.IN0
+p1 => po.IN0
+g2 => go.IN1
+p2 => go.IN1
+p2 => po.IN1
+go <= go.DB_MAX_OUTPUT_PORT_TYPE
+po <= po.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Sep 13 21:43:57 2019
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : sumador_2
+Top-level Entity Name : KSA_64
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 551 / 22,320 ( 2 % )
+    Total combinational functions : 551 / 22,320 ( 2 % )
+    Dedicated logic registers : 0 / 22,320 ( 0 % )
+Total registers : 0
+Total pins : 0 / 154 ( 0 % )
+Total virtual pins : 193
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
